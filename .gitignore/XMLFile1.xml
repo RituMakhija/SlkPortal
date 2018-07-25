@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>slk.jpg</ImageUrl>
+    <AlternateText>SLK Software</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>first</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>slkpic.jpg</ImageUrl>
+    <AlternateText>SLK Software</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>third</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>background.jpg</ImageUrl>
+    <AlternateText>SLK Software</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Second</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>SLKSoftware.png</ImageUrl>
+    <AlternateText>SLK Software</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Second</Keyword>
+  </Ad>
+</Advertisements>

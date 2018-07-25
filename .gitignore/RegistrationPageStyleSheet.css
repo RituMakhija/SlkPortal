@@ -1,0 +1,14 @@
+﻿body {
+}
+
+#tablecontent{
+    height:65px;
+    font-size:20px;  
+    /*position:relative;
+    top:100px;
+    left:500px;*/
+}
+
+table tr,td{
+    padding:10px;
+}
